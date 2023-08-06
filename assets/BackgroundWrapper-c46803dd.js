@@ -1,4 +1,4 @@
-import{s as e,b as t,a as o,j as a}from"./index-d0ebe4d1.js";const s="/react_node_fs_67_NMarkhotsky/assets/bg_desktop-9087b7f4.webp",i="/react_node_fs_67_NMarkhotsky/assets/bg_desktop@2x-c4d85c9b.webp",r="/react_node_fs_67_NMarkhotsky/assets/bg_tablet-ff99c698.webp",n="/react_node_fs_67_NMarkhotsky/assets/bg_tablet@2x-7daf05ac.webp",b="/react_node_fs_67_NMarkhotsky/assets/bg_mobile-7969756c.webp",c="/react_node_fs_67_NMarkhotsky/assets/bg_mobile@2x-6ff8cc11.webp",d=e.div`
+import{s as e,b as t,a as o,j as a}from"./index-e449b0a6.js";const s="/react_node_fs_67_NMarkhotsky/assets/bg_desktop-9087b7f4.webp",i="/react_node_fs_67_NMarkhotsky/assets/bg_desktop@2x-c4d85c9b.webp",r="/react_node_fs_67_NMarkhotsky/assets/bg_tablet-ff99c698.webp",n="/react_node_fs_67_NMarkhotsky/assets/bg_tablet@2x-7daf05ac.webp",b="/react_node_fs_67_NMarkhotsky/assets/bg_mobile-7969756c.webp",c="/react_node_fs_67_NMarkhotsky/assets/bg_mobile@2x-6ff8cc11.webp",d=e.div`
   position: fixed;
   top: 0;
   left: 0;

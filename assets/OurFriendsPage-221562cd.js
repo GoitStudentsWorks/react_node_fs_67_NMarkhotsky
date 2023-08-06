@@ -1,4 +1,4 @@
-import{s as t,b as o,a as r,f as T,t as n,P as $,j as i,g as z,r as j,h as W}from"./index-d0ebe4d1.js";import{T as L}from"./TitlePage-f53e76ab.js";import{B as F}from"./BaseSkeleton.styled-6e6c95a4.js";const O=t.section`
+import{s as t,b as o,a as r,f as T,t as n,P as $,j as i,g as z,r as j,h as W}from"./index-e449b0a6.js";import{T as L}from"./TitlePage-7d4ea899.js";import{B as F}from"./BaseSkeleton.styled-f410479d.js";const O=t.section`
   padding-bottom: 75px;
 `,H=t.div`
   margin-bottom: 24px;
